@@ -7,7 +7,7 @@
 이미지 예시
 ---------------------
 
-<img src"https://github.com/Kim-Taesu/seoulMap/blob/master/data/Seoul_districts.svg" width="90%"></img>
+![mapImage](./data/mapImage.jpg)
 
 
 ***made by Kim Tae-su***
