@@ -7,7 +7,7 @@
 이미지 예시
 ---------------------
 
-![mapImage](./data/mapImage.jpg)
+![mapImage](./data/mapImage.JPG)
 
 
 ***made by Kim Tae-su***
