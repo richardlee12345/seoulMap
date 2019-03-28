@@ -4,6 +4,8 @@
 
 서울 택시 데이터 : http://data.seoul.go.kr/dataList/datasetView.do?infId=OA-12066&srvType=F&serviceKind=1
 
+구역별 택시차량 수에 따른 heatmap
+
 실행 방법
 ---------------------
 1. southKorea.py 코드를 실행 
