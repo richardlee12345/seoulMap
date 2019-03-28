@@ -20,6 +20,3 @@
 ![mapImage](./data/image/image.JPG)
 
 
-
-
-***made by Kim Tae-su***
