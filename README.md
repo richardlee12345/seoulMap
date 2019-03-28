@@ -15,7 +15,7 @@
 이미지 예시
 ---------------------
 
-![mapImage](./data/mapImage.JPG)
+![mapImage](./data/image/image.JPG)
 
 
 
