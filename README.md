@@ -10,11 +10,13 @@
 
 **P.S. 택시 데이터는 scala를 통해 자료를 가공했습니다.
 
-실행 방법
+과정
 ---------------------
-1. southKorea.py 코드를 실행 
-2. 가공된 데이터의 택시차량의 수에 따라 구역마다 다른 색상 부여
-3. Output : data 폴더의 'test.svg' 파일로 output 출력
+1. mongoDB에서 가져온 서울 택시 데이터 결과(json)를 read 한다.
+2. read한 데이터를 토대로 dataframe을 생성하고 seaborn을 이용해 heatmap을 생성
+3. 2번 결과에서 각 구별 색깔을 seoul map파일(svg)에 색깔을 입힌다.
+4. 색깔 입힌 seoul map 결과와 heat map 결과물을 합친다.
+5. 합친 결과물 svg파일로 저장
 
 이미지 예시
 ---------------------
