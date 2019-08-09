@@ -19,6 +19,6 @@
 이미지 예시
 ---------------------
 
-![mapImage](./data/image/image.JPG)
+![mapImage](./data/image/result.png)
 
 
