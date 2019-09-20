@@ -40,6 +40,22 @@
 
 
 
+#### Technology
+
+- Pandas
+- BeautifulSoup
+- requests
+- seaborn
+- pymongo
+
+
+
+#### 개발 언어
+
+- Python
+
+
+
 #### 결과 이미지 예시
 
 - 서울 및 경기지역 택시 교통량 시각화
