@@ -60,8 +60,12 @@
 
 - 서울 및 경기지역 택시 교통량 시각화
 
-![mapImage](./data/image/image.JPG)
+![mapImage](./data/image/image2.PNG)
 
-- 택시 교통량 데이터를 seaborn 시각화 후 svg파일에 지역별 색깔 입히기![mapImage](./data/image/image2.PNG)
+- 시각화된 데이터를 홈페이지에 올려서 사용중입니다. 
+
+  - https://github.com/Kim-Taesu/smuDatalabHomepage
+
+  ![mapImage](./data/image/taxi-data.PNG)
 
 #### 
